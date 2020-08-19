@@ -28,8 +28,6 @@ public class Day02_TitleUrlTest {
 
         // driver'ı kapattık.
         driver.quit();
-
-        // github
     }
 
 }
