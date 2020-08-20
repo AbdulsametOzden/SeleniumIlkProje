@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61694b4c-cec7-4e77-aad9-51b3e17bf08f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorsGiris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day04_LocatorsTagName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techproed/Day03_LocatorsGiris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techproed/Day03_LocatorsGiris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumIlkProje/com/techproed/Day03_LocatorsGiris.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +43,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
-  <component name="RunManager" selected="Application.Day03_LocatorsGiris">
-    <configuration name="Day02_DriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day02_DriverMethods" />
+  <component name="RunManager" selected="Application.Day04_GoogleTest">
+    <configuration name="Day04_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_FindElements" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -52,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_DriverOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day02_DriverOdev" />
+    <configuration name="Day04_GoogleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_GoogleTest" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day02_IfElse" />
+    <configuration name="Day04_LocatorLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_LocatorLinkText" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_TitleUrlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day02_TitleUrlTest" />
+    <configuration name="Day04_LocatorsGiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_LocatorsGiris" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day03_LocatorsGiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day03_LocatorsGiris" />
+    <configuration name="Day04_LocatorsTagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_LocatorsTagName" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day03_LocatorsGiris" />
-        <item itemvalue="Application.Day02_TitleUrlTest" />
-        <item itemvalue="Application.Day02_IfElse" />
-        <item itemvalue="Application.Day02_DriverOdev" />
-        <item itemvalue="Application.Day02_DriverMethods" />
+        <item itemvalue="Application.Day04_GoogleTest" />
+        <item itemvalue="Application.Day04_FindElements" />
+        <item itemvalue="Application.Day04_LocatorsTagName" />
+        <item itemvalue="Application.Day04_LocatorLinkText" />
+        <item itemvalue="Application.Day04_LocatorsGiris" />
       </list>
     </recent_temporary>
   </component>
@@ -132,34 +137,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="779" y="110" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597347303632" />
-    <state width="1322" height="218" key="GridCell.Tab.0.bottom" timestamp="1597868068579">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1597954945608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597868068579" />
-    <state width="1322" height="218" key="GridCell.Tab.0.center" timestamp="1597868068579">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945608" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1597954945608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="218" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597868068579" />
-    <state width="1322" height="218" key="GridCell.Tab.0.left" timestamp="1597868068578">
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945608" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1597954945608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="218" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597868068578" />
-    <state width="1322" height="218" key="GridCell.Tab.0.right" timestamp="1597868068579">
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945608" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1597954945608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="218" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597868068579" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945608" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1597954945609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945609" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1597954945609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945609" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1597954945609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945609" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1597954945609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597954945609" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1597349503191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597349503191" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1597763464072">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1597944539468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597763464072" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597944539468" />
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597445252406" />
-    <state x="65" y="0" key="new project wizard" timestamp="1597347696934">
+    <state x="65" y="0" key="new project wizard" timestamp="1597944854542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597347696934" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597944854542" />
   </component>
 </project>
