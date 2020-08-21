@@ -25,8 +25,6 @@ public class Day04_GoogleTest {
         WebElement sonucSayisi = driver.findElement(By.id("result-stats"));
         System.out.println(sonucSayisi.getText());
 
-        System.out.println("selamlar");
-
         WebElement alisverisLinki = driver.findElement(By.partialLinkText("Alışveriş"));
         alisverisLinki.click();
 
