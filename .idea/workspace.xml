@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61694b4c-cec7-4e77-aad9-51b3e17bf08f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day05_CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day05_Xpath01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day05_Xpath02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day06_Facebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/techproed/Day04_GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/techproed/Day04_GoogleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,22 +38,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
-  <component name="RunManager" selected="Application.Day05_CssSelector">
+  <component name="RunManager" selected="Application.Day06_Facebook">
     <configuration name="Day03_LocatorsGiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techproed.Day03_LocatorsGiris" />
-      <module name="SeleniumIlkProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.techproed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04_LocatorsTagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.techproed.Day04_LocatorsTagName" />
       <module name="SeleniumIlkProje" />
       <extension name="coverage">
         <pattern>
@@ -107,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day06_Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techproed.Day06_Facebook" />
+      <module name="SeleniumIlkProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day06_Facebook" />
         <item itemvalue="Application.Day05_CssSelector" />
         <item itemvalue="Application.Day05_Xpath02" />
         <item itemvalue="Application.Day05_Xpath01" />
         <item itemvalue="Application.Day03_LocatorsGiris" />
-        <item itemvalue="Application.Day04_LocatorsTagName" />
       </list>
     </recent_temporary>
   </component>
@@ -135,22 +132,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="779" y="110" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597955281595" />
-    <state width="1322" height="332" key="GridCell.Tab.0.bottom" timestamp="1598040444386">
+    <state width="1322" height="375" key="GridCell.Tab.0.bottom" timestamp="1598213285850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="332" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598040444386" />
-    <state width="1322" height="332" key="GridCell.Tab.0.center" timestamp="1598040444386">
+    <state width="1322" height="375" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
+    <state width="1322" height="375" key="GridCell.Tab.0.center" timestamp="1598213285850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="332" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598040444386" />
-    <state width="1322" height="332" key="GridCell.Tab.0.left" timestamp="1598040444385">
+    <state width="1322" height="375" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
+    <state width="1322" height="375" key="GridCell.Tab.0.left" timestamp="1598213285850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="332" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598040444385" />
-    <state width="1322" height="332" key="GridCell.Tab.0.right" timestamp="1598040444386">
+    <state width="1322" height="375" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
+    <state width="1322" height="375" key="GridCell.Tab.0.right" timestamp="1598213285850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="332" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598040444386" />
+    <state width="1322" height="375" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
     <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1597955296245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -171,11 +168,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597349503191" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598024604309">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598209851867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598024604309" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597445252406" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598203245964" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598209851867" />
     <state x="65" y="0" key="new project wizard" timestamp="1597944854542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
