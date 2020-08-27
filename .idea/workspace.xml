@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61694b4c-cec7-4e77-aad9-51b3e17bf08f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/techproed/Day06_Facebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1g3XsBO48CfyFJdWrbl2aHrd6A6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,7 +42,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RunManager" selected="Application.Day06_Facebook">
     <configuration name="Day03_LocatorsGiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -132,22 +138,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="779" y="110" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597955281595" />
-    <state width="1322" height="375" key="GridCell.Tab.0.bottom" timestamp="1598213285850">
+    <state width="1322" height="375" key="GridCell.Tab.0.bottom" timestamp="1598214628106">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="375" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
-    <state width="1322" height="375" key="GridCell.Tab.0.center" timestamp="1598213285850">
+    <state width="1322" height="375" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598214628106" />
+    <state width="1322" height="375" key="GridCell.Tab.0.center" timestamp="1598214628106">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="375" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
-    <state width="1322" height="375" key="GridCell.Tab.0.left" timestamp="1598213285850">
+    <state width="1322" height="375" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598214628106" />
+    <state width="1322" height="375" key="GridCell.Tab.0.left" timestamp="1598214628105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="375" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
-    <state width="1322" height="375" key="GridCell.Tab.0.right" timestamp="1598213285850">
+    <state width="1322" height="375" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598214628105" />
+    <state width="1322" height="375" key="GridCell.Tab.0.right" timestamp="1598214628106">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="375" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598213285850" />
+    <state width="1322" height="375" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598214628106" />
     <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1597955296245">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -164,18 +170,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597955296245" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1597349503191">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598541476327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597349503191" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598209851867">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598541476327" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1598549246744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598203245964" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598209851867" />
-    <state x="65" y="0" key="new project wizard" timestamp="1597944854542">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1598549246744" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598541392983" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598541417335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1597944854542" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1598541417335" />
   </component>
 </project>
